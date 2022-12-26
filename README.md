@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 -->
 **Say Hi on Twitter([@menaxmaged](https://twitter.com/menaxmaged))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kerolosxgad?style=social)](https://twitter.com/menaxmaged)
+[![Twitter Follow](https://img.shields.io/twitter/follow/menaxmaged?style=social)](https://twitter.com/menaxmaged)
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
