@@ -17,8 +17,10 @@ You can click the Preview link to take a look at your changes.
 
   <dt>My Mission</dt>
   <dd>Building the best web and cloud solutions with the lowest cost and the most efficiency.</dd>
+
 </dl>
 
+<!--
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**IEEE-HSB-Website**](https://github.com/ieeehelwanstudentbranch/IEEEHSB_main_site) | [![GitHub issues](https://img.shields.io/github/issues/ieeehelwanstudentbranch/IEEEHSB_main_site?color=green&logo=github&style=flat)](https://github.com/ieeehelwanstudentbranch/IEEEHSB_main_site/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/ieeehelwanstudentbranch/IEEEHSB_main_site?style=flat&logo=github)](https://github.com/ieeehelwanstudentbranch/IEEEHSB_main_site/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/ieeehelwanstudentbranch/IEEEHSB_main_site?style=flat&color=critical&logo=github)](https://github.com/ieeehelwanstudentbranch/IEEEHSB_main_site/pulls?q=is%3Apr+is%3Aclosed)  |
@@ -29,10 +31,10 @@ You can click the Preview link to take a look at your changes.
 | [**STEM-MAL-Website**](https://github.com/drymak/STEM-MAL) | [![GitHub issues](https://img.shields.io/github/issues/drymak/STEM-MAL?color=green&logo=github&style=flat)](https://github.com/drymak/STEM-MAL/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/drymak/STEM-MAL?style=flat&logo=github)](https://github.com/drymak/STEM-MAL/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/drymak/STEM-MAL?style=flat&color=critical&logo=github)](https://github.com/drymak/STEM-MAL/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**Ignite-STEM-6-October-Website**](https://github.com/drymak/ignite6oct) | [![GitHub issues](https://img.shields.io/github/issues/drymak/ignite6oct?color=green&logo=github&style=flat)](https://github.com/drymak/ignite6oct/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/drymak/ignite6oct?style=flat&logo=github)](https://github.com/drymak/ignite6oct/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/drymak/ignite6oct?style=flat&color=critical&logo=github)](https://github.com/drymak/ignite6oct/pulls?q=is%3Apr+is%3Aclosed)   |
 
+-->
+**Say Hi on Twitter([@menaxmaged](https://twitter.com/menaxmaged))!** :heart: 💬
 
-**Say Hi on Twitter([@mena](https://twitter.com/))!** :heart: 💬
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/kerolosxgad?style=social)](https://twitter.com/kerolosxgad)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kerolosxgad?style=social)](https://twitter.com/menaxmaged)
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -61,7 +63,8 @@ Here are some ideas to get you started:
 :smiley: N+
 :relaxed: CCNA
 :satisfied: CNSS
-
+:relaxed: Arduino
+:smile: Esxi
 
 
 <br/>
@@ -75,9 +78,9 @@ Here are some ideas to get you started:
 ## Let's Connect :sunglasses:
 <p align="center">
 <a href="https://www.codexeg.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codexeg.net-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kerolos%20Gad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kerolosxgad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kerolos%20Gad-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kerolos.gad@codexeg.net"><img alt="Email" src="https://img.shields.io/badge/Email-kerolos.gad@codexeg.net-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/mena-maged"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mena%20Maged-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com//mena_maged69/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Mena%20Maged-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mena.maged@codexeg.net"><img alt="Email" src="https://img.shields.io/badge/Email-mena.maged@codexeg.net-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
