@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## Let's Connect :sunglasses:
 <p align="center">
 <a href="https://www.codexeg.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codexeg.net-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/mena-maged"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mena%20Maged-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/menaxmaged"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mena%20Maged-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com//mena_maged69/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Mena%20Maged-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mena.maged@codexeg.net"><img alt="Email" src="https://img.shields.io/badge/Email-mena.maged@codexeg.net-blue?style=flat-square&logo=gmail"></a>
 </p>
