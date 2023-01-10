@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
 
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/menaxmaged?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/menamaged69/) 
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/menaxmaged?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/menaxmaged/) 
 
 
 **Say Hi on Twitter([@menaxmaged](https://twitter.com/menaxmaged))!** :heart: 💬
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://github.com/menaxmaged">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=menaxmaged&theme=dracula&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaxmaged&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menaxmaged&theme=dracula&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaxmaged&theme=dracula"/>
 </a>
 
 <br/>
