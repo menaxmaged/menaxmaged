@@ -28,13 +28,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 -->
 
-<br/>
-<a href="https://github.com/menaxmaged">
-  <img src="https://github-readme-stats.vercel.app/api?username=menaxmaged&theme=dracula&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaxmaged&theme=dracula"/>
-</a>
-
-<br/>
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=menaxmaged&&count_private=true&show_icons=true&hide_border=true&hide=prs&theme=dark">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menaxmaged&&count_private=true&layout=compact&hide_border=true&theme=dark&show_icons=true">
+</p>
 
 ## Let's Connect :sunglasses:
 <p align="center">
